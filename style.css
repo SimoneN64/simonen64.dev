@@ -1,6 +1,11 @@
-.glowImageYellow
-{
--moz-box-shadow: 0 0 5px #ffc32b;
--webkit-box-shadow: 0 0 5px #ffc32b;
-box-shadow: 0px 0px 5px #ffc32b;
+.my-bg-dark {
+  background-color: #1c1c1c;
+}
+
+.subtleYellowGlow {
+  box-shadow: 0px 10px 40px -40px #ffcb3b;
+}
+
+.yellowdivider {
+  color: #ffcb3b;
 }
