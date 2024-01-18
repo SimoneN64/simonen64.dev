@@ -2,10 +2,10 @@
   background-color: #1c1c1c;
 }
 
-.subtleYellowGlow {
-  box-shadow: 0px 10px 40px -40px #ffcb3b;
+.subtleBlueGlow {
+  box-shadow: 0px 10px 40px -40px #7ef8ee;
 }
 
-.yellowdivider {
-  color: #ffcb3b;
+.bluedivider {
+  color: #7ef8ee;
 }
